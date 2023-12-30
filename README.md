@@ -1,4 +1,4 @@
-# Hey there, I'm Andrew! 👋
+# Hey, I'm Andrew! 👋
 
 🎓 I'm a Junior at MTSU (Middle Tennessee State University) | 🌟 Actively Seeking Internships
 
