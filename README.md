@@ -14,7 +14,7 @@ I'm passionate about computer science and problem solving. Using this platform t
 
 📫 **Reach out:** Connect via [Email](mailto:andrewtodnicholson@gmail.com) or [LinkedIn](https://www.linkedin.com/in/connectandrewnicholson)!
 
-👋 Let's network, discuss opportunities, or geek out over tech!
+👋 Let's network or discuss opportunities!
 
 ## Project Focus
 
