@@ -20,7 +20,7 @@ I'm passionate about computer science and problem solving. Using this platform t
 
 🔭 **Project Spotlight: AI Minesweeper Bot**
 
-### mineSweeper AI Bot
+### Minesweeper AI Bot
 
 🤖 My primary project for the time being: Dive into my [Minesweeper AI Bot](https://github.com/AndyNichol3/MineSweeperCpp) - a C++ Minesweeper clone with an AI bot that plays my clone of the game.
 
