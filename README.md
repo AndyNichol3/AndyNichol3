@@ -22,7 +22,7 @@ I'm passionate about computer science and problem solving. Using this platform t
 
 ### mineSweeper AI Bot
 
-🤖 My primary project for the time being: Dive into my [Minesweeper AI Bot](https://github.com/AndyNichol3/MineSweeperCpp) - a C++ Minesweeper clone with an AI bot that tries to replicate huamn thought to discovers moves.
+🤖 My primary project for the time being: Dive into my [Minesweeper AI Bot](https://github.com/AndyNichol3/MineSweeperCpp) - a C++ Minesweeper clone with an AI bot that plays my clone of the game.
 
 🎮 **Features:**
 - **AI Bot Integration:** Experience an AI bot playing Minesweeper autonomously.
