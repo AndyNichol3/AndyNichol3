@@ -1,6 +1,6 @@
 # Hey, I'm Andrew! 👋
 
-🎓 I'm a Junior at MTSU (Middle Tennessee State University) | 🌟 Actively Seeking Internships
+🎓 I'm a Senior at MTSU (Middle Tennessee State University) | 🌟 Actively Seeking Internships
 
 I'm passionate about computer science and problem solving. Using this platform to gain experience and document personal projects.
 
